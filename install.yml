@@ -1,0 +1,12 @@
+---
+- name: Playbook
+  hosts: localhost
+  gather_facts: no
+  connection: local
+
+  tasks:
+    - name: "Install psutils"
+      pip:
+        name: "psutils"
+        executable: pip3
+        version: 5.4.3

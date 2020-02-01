@@ -5,7 +5,7 @@
   connection: local
 
   tasks:
-    - name: "Install psutils"
+    - name: "Install psutil"
       pip:
-        name: "psutils"
+        name: "psutil"
         executable: pip3

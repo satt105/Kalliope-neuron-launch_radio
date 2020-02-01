@@ -9,4 +9,3 @@
       pip:
         name: "psutils"
         executable: pip3
-        version: 5.4.3

@@ -14,7 +14,7 @@ Made from Kalliope neuron ambient_sound, available here: https://github.com/kall
 
 Install the neuron into your resource directory
 ```bash
-kalliope install --git-url https://github.com/SomebodyLikeEveryBody/kalliope_neuron_launch_radio.git
+kalliope install --git-url https://github.com/satt105/Kalliope-neuron-launch_radio.git
 ```
 
 ## Options
